@@ -38,5 +38,6 @@ Robust multimodal recommendation model under mixed modality corruption.
 `Python` `Neo4j` `RAG` `LLM` `Knowledge Graph` `PyTorch` `TensorFlow` `scikit-learn` `SQL` 
 
 ## Links
+- 📄 [Curriculum Vitae](./hyunajeon_CV.pdf)
 - 📘 Velog: https://velog.io/@hyun26a_a
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=27_16-8AAAAJ&hl=ko
