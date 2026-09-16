@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hyuna Jeon 👋
 
-<!--
-**hyuna0926/hyuna0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Researcher & Engineer interested in **LLM**, **Time-Series Reasoning**, **Ontology/KG-RAG**, and **Multimodal Recommendation Systems**.
 
-Here are some ideas to get you started:
+- 🎓 M.S. Student in AI, Hanyang University
+- 🔍 Researching LLM-based temporal reasoning, knowledge-graph grounded RAG, and robust multimodal recommendation
+- 📝 Co-first author of two EMNLP 2026 Main Conference papers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Large Language Models (LLM)
+- Time-Series Question Answering
+- Ontology / Knowledge Graph / KG-RAG
+- Multimodal Recommendation Systems
+- Data-centric AI
+
+## Featured Projects
+### [TiMER_paper](https://github.com/hyuna0926/TiMER_paper)
+Query-adaptive multi-granularity routing framework for time-series question answering.
+
+### [ontology_based_kg_paper](https://github.com/hyuna0926/ontology_based_kg_paper)
+Ontology-based knowledge graphs for industrial standards with scope-aware logical rule structuring.
+
+### [StateMoE](https://github.com/hyuna0926/StateMoE)
+Robust multimodal recommendation model under mixed modality corruption.
+
+## Publications
+- **TiMER: Query-Adaptive Multi-Granularity Routing for Temporal Reasoning**  
+  *EMNLP 2026 Main Conference*
+- **Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring**  
+  *EMNLP 2026 Main Conference*
+
+## Tech Stack
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `SQL` `Neo4j` `RAG` `LLM` `Knowledge Graph`
+
+## Links
+- 📘 Velog: https://velog.io/@hyun26a_a
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=...
