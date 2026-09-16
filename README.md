@@ -17,7 +17,7 @@ AI Researcher & Engineer interested in **LLM**, **Time-Series Reasoning**, **Ont
 ### [TiMER_paper](https://github.com/hyuna0926/TiMER_paper)
 Query-adaptive multi-granularity routing framework for time-series question answering.
 
-### [ontology_based_kg_paper](https://github.com/hyuna0926/ontology_based_kg_paper)
+### [ontology_based_kg_paper](https://github.com/Ontology-KG/ontology_based_kg_paper)
 Ontology-based knowledge graphs for industrial standards with scope-aware logical rule structuring.
 
 ### [StateMoE](https://github.com/hyuna0926/StateMoE)
