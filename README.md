@@ -25,13 +25,18 @@ Robust multimodal recommendation model under mixed modality corruption.
 
 ## Publications
 - **TiMER: Query-Adaptive Multi-Granularity Routing for Temporal Reasoning**  
-  *EMNLP 2026 Main Conference*
+  *EMNLP 2026 Main Conference*, Co-first Author
 - **Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring**  
-  *EMNLP 2026 Main Conference*
+  *EMNLP 2026 Main Conference*, Co-first Author
+- **BearGen: LLM-guided signal generation framework for bearing fault diagnosis**  
+  *Advanced Engineering Informatics 71, 104400*, Second Author
+
+
+  
 
 ## Tech Stack
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `SQL` `Neo4j` `RAG` `LLM` `Knowledge Graph`
+`Python` `Neo4j` `RAG` `LLM` `Knowledge Graph` `PyTorch` `TensorFlow` `scikit-learn` `SQL` 
 
 ## Links
 - 📘 Velog: https://velog.io/@hyun26a_a
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=...
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=27_16-8AAAAJ&hl=ko
